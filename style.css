@@ -1,0 +1,88 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+h1 {
+    font-size: 3rem;
+    padding: 0;
+    margin: 0;
+    color: rgb(73, 73, 73);
+}
+
+h2 {
+    color: rgb(73, 73, 73);
+}
+
+.span-color {
+    color: rgb(98, 150, 15);
+}
+
+.flexible-content {
+    display: flex;
+    margin-bottom: 70px;
+}
+
+.eat-healthy-details {
+    width: 70%;
+    padding-left: 90px;
+    padding-top: 150px;
+
+}
+
+.paragraph-tag {
+    padding-top: 20px;
+    color: rgb(114, 112, 112);
+    padding-bottom: 30px;
+}
+
+p {
+    padding: 0;
+    margin: 0;
+}
+
+.eat-healthy-img {
+    width: 80%;
+    padding-right: 120px;
+    padding-top: 20px;
+}
+
+.eat-healthy-img img {
+    width: 90%;
+    padding: 5%;
+}
+
+a {
+    text-decoration: none;
+    background-image: linear-gradient(rgb(15, 164, 190), rgb(85, 151, 59));
+    padding: 10px 20px;
+    border-radius: 20px;
+    color: white;
+}
+
+.about-me-img {
+    width: 80%;
+    padding-top: 20px;
+    padding-left: 150px;
+}
+
+.about-me-img img {
+    width: 60%;
+    padding: 5%;
+}
+
+.about-section {
+    background-image: url("images/shapes/7.png");
+    background-repeat: no-repeat;
+}
+
+.about-me-details {
+    width: 70%;
+    padding-right: 140px;
+    padding-top: 100px;
+    text-align: justify;
+}
+
+.about-me-details-anchor {
+    margin-top: 150px;
+}
