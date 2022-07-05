@@ -36,6 +36,14 @@ h2 {
     padding-bottom: 30px;
 }
 
+.paragraph-tag-color {
+    color: rgb(114, 112, 112);
+}
+
+.remove-padding-h3 {
+    padding-bottom: 0;
+}
+
 p {
     padding: 0;
     margin: 0;
@@ -85,4 +93,80 @@ a {
 
 .about-me-details-anchor {
     margin-top: 150px;
+
+}
+
+.give-shadow {
+    box-shadow: 0.4px 0.4px 5px black;
+}
+
+.recipies-starting {
+    text-align: center;
+    width: 50%;
+    padding-left: 330px;
+}
+
+.remove-padding {
+    padding: 0;
+    margin: 0;
+}
+
+.recipe-side-by-side {
+    width: 50%;
+    padding: 20px;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 5px 5px 15px gray;
+    border-radius: 30px;
+}
+
+.followers-list-div {
+    width: 50%;
+    padding: 20px;
+    text-align: center;
+}
+
+.section-border {
+    box-shadow: 5px 5px 15px gray;
+    border-radius: 30px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.recipe-side-by-side img {
+    width: 100%;
+    height: 60%;
+}
+
+.padding-to-recipe-card {
+    padding-top: 30px;
+}
+
+.footer-section {
+    text-align: center;
+    padding-bottom: 20px;
+    background-color: rgb(6, 29, 51);
+}
+
+.footer-h3 {
+    color: rgb(73, 73, 73);
+    padding-top: 30px;
+}
+
+.footer-span {
+    color: rgb(22, 126, 126);
+    padding-right: 5px;
+}
+
+.padding-footer {
+    padding-bottom: 80px;
+}
+
+.set-followers-margin {
+    margin-bottom: 120px;
+    margin-top: 90px;
+}
+
+.follower-h1-color-change {
+    color: black;
 }
